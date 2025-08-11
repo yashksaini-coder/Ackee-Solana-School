@@ -30,9 +30,3 @@ For this task you need:
 ### Hints and Useful Links
 
 [Anchor Framework Documentation](https://www.anchor-lang.com/)
-
------
-
-### Need help?
->[!TIP]
->If you have any questions, feel free to reach out to us on [Discord](https://discord.gg/z3JVuZyFnp).
